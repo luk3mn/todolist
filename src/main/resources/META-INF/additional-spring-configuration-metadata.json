@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spirng.datasource.driverClassName",
+  "type": "java.lang.String",
+  "description": "A description for 'spirng.datasource.driverClassName'"
+}]}
