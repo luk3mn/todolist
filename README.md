@@ -129,7 +129,7 @@ _For more explanations, please refer to the [Documentation](https://spring.io/pr
 - [x] Back-end configuration
 - [x] Database implementation
 - [x] Security validations
-- [ ] Tasks update and rotes validations
+- [x] Tasks update and rotes validations
 - [ ] Back-end deploy
 
 <p align="right">(<a href="#todolist">back to top</a>)</p>
